@@ -1,0 +1,26 @@
+D:\programmin\first jorney\Game club\bin\Debug\Game club.exe.config
+D:\programmin\first jorney\Game club\bin\Debug\Game club.exe
+D:\programmin\first jorney\Game club\bin\Debug\Game club.pdb
+D:\programmin\first jorney\Game club\bin\Debug\Guna.UI2.dll
+D:\programmin\first jorney\Game club\obj\Debug\Game club.csproj.AssemblyReference.cache
+D:\programmin\first jorney\Game club\obj\Debug\Game_club.Properties.Resources.resources
+D:\programmin\first jorney\Game club\obj\Debug\Game club.csproj.GenerateResource.cache
+D:\programmin\first jorney\Game club\obj\Debug\Game club.csproj.CoreCompileInputs.cache
+D:\programmin\first jorney\Game club\obj\Debug\Game club.csproj.Up2Date
+D:\programmin\first jorney\Game club\obj\Debug\Game club.exe
+D:\programmin\first jorney\Game club\obj\Debug\Game club.pdb
+D:\programmin\first jorney\Game club\bin\Debug\WindowsFormsApp1.exe
+D:\programmin\first jorney\Game club\bin\Debug\WindowsFormsApp1.pdb
+D:\programmin\first jorney\Game club\bin\Debug\WindowsFormsApp1.exe.config
+D:\programmin\first jorney\Game club\bin\Debug\Memory Game.exe
+D:\programmin\first jorney\Game club\bin\Debug\Tic-Tac-Toe Game.exe
+D:\programmin\first jorney\Game club\bin\Debug\Typing Club.exe
+D:\programmin\first jorney\Game club\bin\Debug\MyClassLib.dll
+D:\programmin\first jorney\Game club\bin\Debug\Memory Game.pdb
+D:\programmin\first jorney\Game club\bin\Debug\Memory Game.exe.config
+D:\programmin\first jorney\Game club\bin\Debug\Tic-Tac-Toe Game.pdb
+D:\programmin\first jorney\Game club\bin\Debug\Tic-Tac-Toe Game.exe.config
+D:\programmin\first jorney\Game club\bin\Debug\Typing Club.pdb
+D:\programmin\first jorney\Game club\bin\Debug\Typing Club.exe.config
+D:\programmin\first jorney\Game club\bin\Debug\MyClassLib.pdb
+D:\programmin\first jorney\Game club\obj\Debug\Game_club.frmGameClub.resources
